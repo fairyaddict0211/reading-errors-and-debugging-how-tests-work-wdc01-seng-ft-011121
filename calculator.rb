@@ -6,3 +6,5 @@ sum = 10
 
 difference = 6
 
+product = 16
+
